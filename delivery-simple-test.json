@@ -1,0 +1,14 @@
+﻿{
+    "notes":  "TEST SIMPLE STRUCTURE",
+    "do_volume_liter":  10000,
+    "fuel_product_id":  "925184f8-e6a3-434c-8512-5a1f69fa765e",
+    "do_date":  "2026-09-16",
+    "driver_name":  "DRIVER TEST",
+    "storage_tank_id":  "9207f666-d0fb-4edf-ba3a-466659ac466f",
+    "received_date":  "2026-09-16",
+    "flowmeter_code":  "FM-3287",
+    "location_id":  "7d3a9735-e769-44ea-a08d-5e0a1e588278",
+    "status":  "DRAFT",
+    "do_number":  "DO-SIMPLE-001",
+    "truck_plate_number":  "DA 1234 XX"
+}
